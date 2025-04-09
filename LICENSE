@@ -3,25 +3,40 @@ MIT License
 Copyright (c) 2025 Mohammed Irfan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
+<<<<<<< HEAD
 of this software and associated documentation files (the “Software”), to deal
 in the Software without restriction, including without limitation the rights to
 use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the
 Software, and to permit persons to whom the Software is furnished to do so,
 subject to the following conditions:
+=======
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+>>>>>>> af56b9c4af3a80b0293272646d4f1cdd6475629d
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
+<<<<<<< HEAD
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+=======
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+>>>>>>> af56b9c4af3a80b0293272646d4f1cdd6475629d
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+<<<<<<< HEAD
 
 📢 Author
 Mohammed Irfan
 BTech in AI & DS
 mi3253050@gmail.com
 GITHUB:https://github.com/MdIrfan325
+=======
+>>>>>>> af56b9c4af3a80b0293272646d4f1cdd6475629d

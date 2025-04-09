@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Facial Emotion Recognition using Custom CNN and MobileNetV2 (TFLite Deployed)
 
 This repository provides a lightweight and efficient **Facial Emotion Recognition (FER)** system based on both a **Custom CNN** architecture and a **MobileNetV2 transfer learning model**. Both models are trained on the FER-2013 dataset and converted to **TensorFlow Lite (TFLite)** format for deployment in low-resource environments and real-time applications.
@@ -113,3 +114,7 @@ Mohammed Irfan
 BTech in AI & Data Science
 mi3253050@gmail.com
 GITHUB:https://github.com/MdIrfan325
+=======
+# emotion-recognition-app
+Lightweight Facial Emotion Recognition using CNN and MobileNetV2 with Streamlit &amp; TFLite Deployment
+>>>>>>> af56b9c4af3a80b0293272646d4f1cdd6475629d
